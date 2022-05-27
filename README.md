@@ -35,6 +35,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jude-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jude-odionyebuchukwu-46a3661b1)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **jayjaychukwu/jayjaychukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
