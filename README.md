@@ -33,7 +33,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems, read tech articles, try to learn something new or play some games.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jude-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jude-odionyebuchukwu-46a3661b1)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jude-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jude-odionyebuchukwu/)
 
 ---
 
